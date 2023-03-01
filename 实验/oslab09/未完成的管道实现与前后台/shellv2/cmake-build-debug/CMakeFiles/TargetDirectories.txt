@@ -1,0 +1,3 @@
+/Users/zhanghaha/Program/CLionProjects/shellv2/cmake-build-debug/CMakeFiles/shellv2.dir
+/Users/zhanghaha/Program/CLionProjects/shellv2/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/zhanghaha/Program/CLionProjects/shellv2/cmake-build-debug/CMakeFiles/rebuild_cache.dir

@@ -1,0 +1,9 @@
+total 344
+-rw-r--r--@  1 zhanghaha  staff   13750 Nov 17 08:51 CMakeCache.txt
+drwxr-xr-x@ 12 zhanghaha  staff     384 Nov 17 08:51 CMakeFiles
+drwxr-xr-x@  3 zhanghaha  staff      96 Nov 17 08:51 Testing
+-rw-r--r--@  1 zhanghaha  staff   25030 Nov 17 08:51 build.ninja
+-rw-r--r--@  1 zhanghaha  staff    1581 Nov 17 08:51 cmake_install.cmake
+drwxr-xr-x@  2 zhanghaha  staff      64 Nov 17 10:00 sb
+-rw-r--r--@  1 zhanghaha  staff       0 Nov 17 14:20 sb.txt
+-rwxr-xr-x@  1 zhanghaha  staff  126564 Nov 17 14:16 shellv2

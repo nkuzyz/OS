@@ -1,0 +1,2 @@
+total 0
+-rw-r--r--@ 1 zhanghaha  staff  0 Nov 17 15:03 aaa.txt
